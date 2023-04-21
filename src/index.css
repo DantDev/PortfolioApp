@@ -9,6 +9,9 @@
 clr-light #fff
 clr-dark #303030
 clr-accent #16e0bd
+
+2nd
+clr-dark: #010220
 */
 :root{
   --ff-primary: 'Source Sans Pro', sans-serif;
@@ -18,7 +21,7 @@ clr-accent #16e0bd
   --fw-bold: 900;
   
   --clr-light: #f0f7f8;
-  --clr-dark: #010220;
+  --clr-dark: #303030;
   --clr-accent: #00b4d8;
 
   --fs-h1: 3rem;
