@@ -367,6 +367,7 @@ header{
   background: var(--clr-dark);
   color: var(--clr-light);
   text-align: center;
+  opacity: .5;
 }
 
 .section__subtitle--work{
