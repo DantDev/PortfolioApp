@@ -5,7 +5,11 @@
 }
 
 /*Custom Properties*/
-
+/*1rst coolor palete 
+clr-light #fff
+clr-dark #303030
+clr-accent #16e0bd
+*/
 :root{
   --ff-primary: 'Source Sans Pro', sans-serif;
   --ff-secondary: 'Source Code Pro', monospace;
@@ -15,7 +19,7 @@
   
   --clr-light: #fff;
   --clr-dark: #303030;
-  --clr-accent: #16e0bd;
+  --clr-accent: #FF6542;
 
   --fs-h1: 3rem;
   --fs-h2: 2.25rem;
