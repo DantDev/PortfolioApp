@@ -5,6 +5,9 @@ import portfolioImg3 from "../assets/portfolio/tenziesgame.jpg"
 import portfolioImg4 from "../assets/portfolio/unitsconverter.jpg"
 import portfolioImg5 from "../assets/portfolio/quizapp.jpg"
 import portfolioImg6 from "../assets/portfolio/vanapp.jpg"
+import portfolioImg7 from "../assets/portfolio/Qrcomponent.jpg"
+import portfolioImg8 from "../assets/portfolio/ProductPreview.jpg"
+import portfolioImg9 from "../assets/portfolio/NFTPreview.jpg"
 
 export default function Projects() {
     return(
@@ -36,6 +39,18 @@ export default function Projects() {
 
                     <a href="https://thunderous-parfait-33e78b.netlify.app/" target="_blank" className="portfolio__item">
                         <img src={portfolioImg6} className="portfolio__img"/>
+                    </a>
+
+                    <a href="https://chic-frangipane-b2bf37.netlify.app/" target="_blank" className="portfolio__item">
+                        <img src={portfolioImg7} className="portfolio__img"/>
+                    </a>
+
+                    <a href="https://sweet-puffpuff-f79ddf.netlify.app/" target="_blank" className="portfolio__item">
+                        <img src={portfolioImg8} className="portfolio__img"/>
+                    </a>
+
+                    <a href="https://profound-tulumba-1fa8b7.netlify.app/" target="_blank" className="portfolio__item">
+                        <img src={portfolioImg9} className="portfolio__img"/>
                     </a>
                 </div>
 
