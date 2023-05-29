@@ -8,6 +8,7 @@ import portfolioImg6 from "../assets/portfolio/vanapp.jpg"
 import portfolioImg7 from "../assets/portfolio/Qrcomponent.jpg"
 import portfolioImg8 from "../assets/portfolio/ProductPreview.jpg"
 import portfolioImg9 from "../assets/portfolio/NFTPreview.jpg"
+import portfolioImg10 from "../assets/portfolio/OrderSummary.jpg"
 
 export default function Projects() {
     return(
@@ -51,6 +52,10 @@ export default function Projects() {
 
                     <a href="https://profound-tulumba-1fa8b7.netlify.app/" target="_blank" className="portfolio__item">
                         <img src={portfolioImg9} className="portfolio__img"/>
+                    </a>
+
+                    <a href="https://marvelous-phoenix-33b0cf.netlify.app/" target="_blank" className="portfolio__item">
+                        <img src={portfolioImg10} className="portfolio__img"/>
                     </a>
                 </div>
 
