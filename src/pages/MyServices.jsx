@@ -13,7 +13,7 @@ export default function MyServices() {
 
                 <div className="service">
                     <h3>Development</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>I constantly strive to enhance my development skills by exploring new technologies, frameworks, and methodologies. Through rigorous research and active participation in developer communities, I ensure that I stay at the forefront of the ever-evolving web landscape. </p>
                 </div>
             </div>
             <Link to="/projects" className="btn">Projects</Link>
