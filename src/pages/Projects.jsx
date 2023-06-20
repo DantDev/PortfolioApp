@@ -10,6 +10,7 @@ import portfolioImg8 from "../assets/portfolio/ProductPreview.jpg"
 import portfolioImg9 from "../assets/portfolio/NFTPreview.jpg"
 import portfolioImg10 from "../assets/portfolio/OrderSummary.jpg"
 import portfolioImg11 from "../assets/portfolio/resultssummary.jpg"
+import portfolioImg12 from "../assets/portfolio/agecalculator.jpg"
 
 export default function Projects() {
     return(
@@ -61,6 +62,10 @@ export default function Projects() {
 
                     <a href="https://elaborate-praline-30348a.netlify.app/" target="_blank" className="portfolio__item">
                         <img src={portfolioImg11} className="portfolio__img"/>
+                    </a>
+
+                    <a href="https://silver-tiramisu-8cc2e0.netlify.app/" target="_blank" className="portfolio__item">
+                        <img src={portfolioImg12} className="portfolio__img"/>
                     </a>
                 </div>
 
