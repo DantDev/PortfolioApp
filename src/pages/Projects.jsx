@@ -59,7 +59,7 @@ export default function Projects() {
                         <img src={portfolioImg10} className="portfolio__img"/>
                     </a>
 
-                    <a href="https://marvelous-phoenix-33b0cf.netlify.app/" target="_blank" className="portfolio__item">
+                    <a href="https://elaborate-praline-30348a.netlify.app/" target="_blank" className="portfolio__item">
                         <img src={portfolioImg11} className="portfolio__img"/>
                     </a>
                 </div>
