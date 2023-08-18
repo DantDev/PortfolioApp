@@ -13,6 +13,8 @@ import portfolioImg11 from "../assets/portfolio/resultssummary.jpg"
 import portfolioImg12 from "../assets/portfolio/agecalculator.jpg"
 import portfolioImg13 from "../assets/portfolio/newshomepage.jpg"
 import portfolioImg14 from "../assets/portfolio/introdropdown.jpg"
+import portfolioImg15 from "../assets/portfolio/advicegen.jpg"
+import portfolioImg16 from "../assets/portfolio/sunnysidepage.jpg"
 
 export default function Projects() {
     return(
@@ -74,6 +76,12 @@ export default function Projects() {
                     </a>
                     <a href="https://moonlit-chimera-631470.netlify.app/" target="_blank" className="portfolio__item">
                         <img src={portfolioImg14} className="portfolio__img"/>
+                    </a>
+                    <a href="https://hilarious-torte-de4f17.netlify.app/" target="_blank" className="portfolio__item">
+                        <img src={portfolioImg15} className="portfolio__img"/>
+                    </a>
+                    <a href="https://clever-cobbler-f0b76f.netlify.app/" target="_blank" className="portfolio__item">
+                        <img src={portfolioImg16} className="portfolio__img"/>
                     </a>
                 </div>
 
