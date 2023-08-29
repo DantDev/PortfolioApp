@@ -15,6 +15,7 @@ import portfolioImg13 from "../assets/portfolio/newshomepage.jpg"
 import portfolioImg14 from "../assets/portfolio/introdropdown.jpg"
 import portfolioImg15 from "../assets/portfolio/advicegen.jpg"
 import portfolioImg16 from "../assets/portfolio/sunnysidepage.jpg"
+import portfolioImg17 from "../assets/portfolio/newslettersignup.jpg"
 
 export default function Projects() {
     return(
@@ -82,6 +83,9 @@ export default function Projects() {
                     </a>
                     <a href="https://clever-cobbler-f0b76f.netlify.app/" target="_blank" className="portfolio__item">
                         <img src={portfolioImg16} className="portfolio__img"/>
+                    </a>
+                    <a href="https://roaring-bienenstitch-3d4b17.netlify.app/" target="_blank" className="portfolio__item">
+                        <img src={portfolioImg17} className="portfolio__img"/>
                     </a>
                 </div>
 
