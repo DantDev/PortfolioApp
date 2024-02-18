@@ -18,6 +18,7 @@ import portfolioImg16 from "../assets/portfolio/sunnysidepage.jpg"
 import portfolioImg17 from "../assets/portfolio/newslettersignup.jpg"
 import portfolioImg18 from "../assets/portfolio/blogrmain.jpg"
 import portfolioImg19 from "../assets/portfolio/timetracking.jpg"
+import portfolioImg20 from "../assets/portfolio/loopstudiomain.jpg"
 
 export default function Projects() {
     return(
@@ -94,6 +95,9 @@ export default function Projects() {
                     </a>
                     <a href="https://regal-puppy-d43b79.netlify.app/" target="_blank" className="portfolio__item">
                         <img src={portfolioImg19} className="portfolio__img"/>
+                    </a>
+                    <a href="https://sunny-twilight-94ab41.netlify.app/" target="_blank" className="portfolio__item">
+                        <img src={portfolioImg20} className="portfolio__img"/>
                     </a>
                 </div>
 
